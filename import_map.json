@@ -1,8 +1,11 @@
 {
   "imports": {
-    "opine": "https://deno.land/x/opine@2.0.2/mod.ts",
     "ramda": "https://x.nest.land/ramda@0.27.0/source/index.js",
     "hyper-connect": "https://x.nest.land/hyper-connect@0.1.9/deno/mod.ts",
-    "sift": "https://deno.land/x/sift@0.4.2/mod.ts"
+    "sift": "https://deno.land/x/sift@0.4.2/mod.ts",
+    "zod": "https://deno.land/x/zod@v3.11.6/mod.ts",
+    "cuid": "https://deno.land/x/cuid@v1.0.0/index.js",
+    "crocks": "https://cdn.skypack.dev/crocks",
+    "hyper-types": "https://x.nest.land/hyper-connect@0.1.9/deno/types.ts"
   }
 }

@@ -1,1 +1,1 @@
-deno run -A --unstable --import-map=import_map.json --watch server.tsx
+deno run -A --unstable --import-map=import_map.json --watch --no-check=remote server.tsx
